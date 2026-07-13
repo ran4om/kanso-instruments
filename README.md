@@ -1,6 +1,6 @@
 # Kanso Instruments
 
-One-page React and Vite concept site for a fictional Berlin modular synthesizer workshop. The hero is a working instrument-like interface with pointer-reactive canvas waves, two accessible range controls, and a sixteen-step pad grid.
+One-page React and Vite concept site for a fictional Berlin modular synthesizer workshop. The redesigned experience presents the Pulse/04 product clearly before inviting experimentation. Its visual panel includes pointer-reactive canvas waves, three accessible range controls, three signal modes, a sixteen-step pad grid, randomize, clear, reset, and a live plain-language status readout.
 
 ## Run
 
@@ -17,3 +17,4 @@ Production check: `npm run build`.
 - Email links use the reserved `.example` domain because this is a portfolio concept.
 - Visual imagery is custom Canvas, CSS, and SVG-style interface art, so there are no third-party image credits.
 - Motion follows `prefers-reduced-motion`.
+- Automated axe testing reports zero accessibility violations.
